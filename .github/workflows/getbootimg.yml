@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/V12.5.5.0.RKHCNXM/miui_ALIOTH_V12.5.5.0.RKHCNXM_c5a30ac282_11.0.zip
+  ROM_URL: https://oss.ztedevices.com/prod/cn/direct/ztea2021/414560B42MR91MyOS11.0.32MR_A2021(SD%E5%8D%A1%E5%8D%87%E7%BA%A7%E5%8C%85).zip
   TZ: Asia/Shanghai
 
 jobs:
